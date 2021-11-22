@@ -1,0 +1,7 @@
+{
+  "palettes": {
+    "default": ["cyan", "orange", "yellow", "green", "blue", "indigo", "violet"]
+  },
+  "language_mode": "include",
+  "languages": ["js", "css", "json"]
+}

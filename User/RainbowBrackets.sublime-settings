@@ -1,0 +1,26 @@
+/*
+	RainbowBrackets user settings in here override the default
+*/
+{
+	"rainbow_colors": {
+		"matched": [
+			"#404040",
+			"#FF80AB",
+			"#B388FF",
+			"#8C9EFF",
+			"#404040",
+			"#FF80AB",
+			"#B388FF",
+			"#8C9EFF",
+			"#404040",
+			"#FF80AB",
+			"#B388FF",
+			"#8C9EFF",
+			"#404040",
+			"#FF80AB",
+			"#B388FF",
+			"#8C9EFF",
+		],
+		"unmatched": "#0000FF"
+	}
+}
