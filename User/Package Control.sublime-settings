@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"JsPrettier",
+		"Materialize",
 		"Package Control",
 		"RainbowBrackets",
 	],
